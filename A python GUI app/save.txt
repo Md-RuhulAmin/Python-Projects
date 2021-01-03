@@ -1,0 +1,1 @@
+C:/Program Files (x86)/Everything/Everything.exe,C:/Program Files/Mozilla Firefox/firefox.exe,E:/python 2020/main.py,
